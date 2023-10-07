@@ -1,7 +1,14 @@
 
-export default function Button (props) {
+
+function Button () {
     
     return (
-        <button>click</button>
-    )
+        <button className="button">click me</button>
+      
+
+
+
+    );
 }
+
+export default Button;

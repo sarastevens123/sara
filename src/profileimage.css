@@ -1,0 +1,14 @@
+
+.profileimage {
+    display: inline-block;
+    width: 200px;
+    height:200px;
+    border: 2px solid #264653;
+    border-radius: 50%;
+    border-color: #2a9d8f;
+    border-style: double;
+    margin-top: 20px;
+
+    
+
+}
