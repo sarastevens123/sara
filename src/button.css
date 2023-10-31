@@ -1,7 +1,8 @@
 .button {
-    width: 150px;
+    width: 200px;
     height: 40px;
-    margin: auto;
+    margin: 20px;
+    display: inline-block;
     border-radius: 12px;
     background-color: #2a9d8f;
     color: #264653;
@@ -11,4 +12,8 @@
 
 
 
+}
+.homebuttons {
+    margin-right: 100px;
+    margin-left: 100px;
 }
