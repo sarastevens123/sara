@@ -1,3 +1,6 @@
+import { Accordion } from "react-bootstrap";
+
+import AccordionPage from "./AccordionPage";
 
 function Header() {
     return (
@@ -5,9 +8,7 @@ function Header() {
             <h1 className='title'>Sara Stevens: Software Engineer</h1>
             
             <div className='buttondiv'>
-                <button className='button'></button>
-                <button className='button'></button>
-                <button className='button'></button>
+                <AccordionPage />
             </div>
 
             

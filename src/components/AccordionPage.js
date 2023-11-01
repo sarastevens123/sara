@@ -23,5 +23,5 @@ function AccordionPage() {
     return <Accordion items={items} />;
 }
 
-export default AccordionPage
+export default AccordionPage;
 

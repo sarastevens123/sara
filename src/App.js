@@ -1,5 +1,5 @@
 import React from 'react'
-// import ProfileImage from './components/ProfileImage'
+import ProfileImage from './components/ProfileImage'
 import Header from './components/Header'
 import AccordionPage from './components/AccordionPage'
 
@@ -23,8 +23,8 @@ function App() {
    
 
 
-   <AccordionPage />
-
+   
+    <ProfileImage />
     
     
     
